@@ -1,5 +1,5 @@
 
-//c6e89e0ca15260587393e65d46acebce
+
 
 import React, { useState, useEffect } from 'react';
 
@@ -29,7 +29,7 @@ import { TbTemperatureCelsius } from 'react-icons/tb';
 import { ImSpinner8 } from 'react-icons/im';
 
 // api key
-const APIkey = 'c6e89e0ca15260587393e65d46acebce';
+const APIkey = '';
 
 const App = () => {
   const [data, setData] = useState(null);
